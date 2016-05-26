@@ -9,7 +9,6 @@ header{
   width: 100%;
   position: fixed;
   height 100px;
-  z-index:10;
   
 }
 #banner{
@@ -26,4 +25,5 @@ header{
   height: 1500px;
   top: 500px;
   background: lightgrey;
+  overflow: hidden;
 }
