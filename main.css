@@ -14,7 +14,6 @@ header{
 }
 #banner{
   width: 100%;
-  position: fixed;
   background: white;
   top: 100px;
   height: 400px;
