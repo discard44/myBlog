@@ -1,1 +1,27 @@
-
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background: lightgrey;
+}
+header{
+  width: 100%;
+  position: fixed;
+  height 100px;
+  
+}
+#banner{
+  width: 100%;
+  position: fixed;
+  background: white;
+  top: 100px;
+  height: 400px;
+}
+#content {
+  position: relative;
+  width: 100%;
+  text-align: center;
+  height: 1500px;
+  top: 500px;
+}
